@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "222859719511",
+    "project_id": "socialhub-c4ff4",
+    "storage_bucket": "socialhub-c4ff4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222859719511:android:772a99224f1fb421f44412",
+        "android_client_info": {
+          "package_name": "com.alphacode.socialhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222859719511-phs8dfiqlmcp32lva4934e5h61cboaiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alphacode.socialhub",
+            "certificate_hash": "e03b79f90e036eec7c610ef4d130b673cc671506"
+          }
+        },
+        {
+          "client_id": "222859719511-s225cfipqi54dh8vpqqfaq4kr6k82dc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYm96q0_p7sS9XQ0NFIT4EqnccVO99T9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222859719511-s225cfipqi54dh8vpqqfaq4kr6k82dc7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "222859719511-n2ijr8etid746grj2712oe526vh7uttb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alphacode.socialhub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

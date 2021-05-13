@@ -2,15 +2,16 @@
 
 Social App
 
-## Getting Started
+This is an instagram clone in flutter and firebase
 
-This project is a starting point for a Flutter application.
+![Alt text](/ScreenShots/1.jpeg?raw=true "Optional Title")
+![Alt text](/ScreenShots/2.jpeg?raw=true "Optional Title")
+![Alt text](/ScreenShots/3.jpeg?raw=true "Optional Title")
+![Alt text](/ScreenShots/4.jpeg?raw=true "Optional Title")
+![Alt text](/ScreenShots/5.jpeg?raw=true "Optional Title")
+![Alt text](/ScreenShots/6.jpeg?raw=true "Optional Title")
+![Alt text](/ScreenShots/7.jpeg?raw=true "Optional Title")
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
